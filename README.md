@@ -1,6 +1,6 @@
 # html5-video-player
 
-30 days vanilla javascript
+30 day vanilla javascript
 
 ## Day 10
 
